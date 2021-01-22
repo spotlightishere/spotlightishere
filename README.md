@@ -1,4 +1,4 @@
 # Hi, I'm Spotlight.
-I'm always up to something, and I always love help with my things.
+I like to think I dabble in a little of everything.
 
-If you ever want to get in touch about a project I've worked on, feel free to create an issue or send me an email!
+![Wakatime statistics](https://github-readme-stats.vercel.app/api/wakatime?username=spotlightishere&compat=true&theme=radical)
