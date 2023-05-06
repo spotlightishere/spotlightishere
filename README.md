@@ -6,6 +6,6 @@ Remember to take care of yourself. Recognize the signs of being [burnt out](http
 <details>
 <summary>Wakatime statistics</summary>
 
-![Wakatime statistics](https://github-readme-stats.vercel.app/api/wakatime?username=spotlightishere&compat=true&theme=radical)
+![Wakatime statistics](https://github-readme-stats.vercel.app/api/wakatime?username=spotlightishere&compat=true&theme=radical&range=last_7_days)
 
 </details>
